@@ -11,7 +11,7 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
   
 ### I am...  
 
-- 🌱 I’m currently learning Machine Learning (Deep Learning, NLP)
+- 🌱 I’m currently learning the Machine Learning (Deep Learning, NLP)
 - 📫 How to reach me: musicjae@naver.com
 
   
