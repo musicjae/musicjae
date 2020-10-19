@@ -15,4 +15,3 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
 - 📫 How to reach me: musicjae@naver.com
 
   
- [![musicjae's github stats](https://github-readme-stats.vercel.app/api?username=musicjae)](https://github.com/musicjae/github-readme-stats)
