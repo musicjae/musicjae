@@ -4,14 +4,15 @@
 Welcome to my Github. I'm graduated from Kookmin University majoring the Electronic Engineering and studed Logics, Philosophy of Language at Yonsei graduate school. Now, i am interested in Machine Learning and NLP, so i am studying ML at IELAB in the Department of computer science at Korea University. My goal is to build an AI philosopher.  
   
  ### Biography  
- - 2020.04 ~ : ![intern at IELAB](http://intelligence.korea.ac.kr/index.html) 
- - 2019.09 ~ : ![M.S course at Yonsei University Philosophy(Logics/Philosophy of Language) Dept.](https://philosophy.yonsei.ac.kr)  
- - ~ 2019.02: ![B.S at Kookmin University Electronic Engineering Dept.](https://ee.kookmin.ac.kr/)  
-   - ![2019 Grand prize, ICT smart Device National Contest 5th, Ministry of Science and ICT, Republic of Korea](https://ee.kookmin.ac.kr/community/board/ee_news/203?pn=0rss)
+ - 2020.04 ~ : [intern at IELAB](http://intelligence.korea.ac.kr/index.html) 
+ - 2019.09 ~ : [M.S course at Yonsei University Philosophy(Logics/Philosophy of Language) Dept.](https://philosophy.yonsei.ac.kr)  
+ - ~ 2019.02: [B.S at Kookmin University Electronic Engineering Dept.](https://ee.kookmin.ac.kr/)  
+   - [2019 Grand prize, ICT smart Device National Contest 5th, Ministry of Science and ICT, Republic of Korea](https://ee.kookmin.ac.kr/community/board/ee_news/203?pn=0rss)
+  
+### I am...  
 
 - 🌱 I’m currently learning Machine Learning (Deep Learning, NLP)
-- 💬 Ask me about ...
 - 📫 How to reach me: musicjae@naver.com
 
   
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/musicjae/github-readme-stats)
+ [![musicjae's github stats](https://github-readme-stats.vercel.app/api?username=musicjae)](https://github.com/musicjae/github-readme-stats)
