@@ -4,6 +4,7 @@
 Welcome to my Github. I'm graduated from Kookmin University majoring in Electronic Engineering and studied Logics, Philosophy of Language at Yonsei graduate school. Currently, I am interested in Machine Learning and NLP, so I am studying the Machine Learning at IELAB in the Department of computer science at Korea University. My goal is to build an AI philosopher.  
   
  ### Biography  
+ - 2020.11 ~ : [Dangamsoft](http://www.dangamsoft.com/index.php)
  - 2020.04 ~ : [intern at IELAB](http://intelligence.korea.ac.kr/index.html) 
  - 2019.09 ~ : [M.S course at Yonsei University Philosophy(Logics/Philosophy of Language) Dept.](https://philosophy.yonsei.ac.kr)  
  - ~ 2019.02: [B.S at Kookmin University Electronic Engineering Dept.](https://ee.kookmin.ac.kr/)  
