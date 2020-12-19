@@ -8,8 +8,11 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
  - 2020.04 ~ : [intern at IELAB](http://intelligence.korea.ac.kr/index.html) 
  - 2019.09 ~ : [M.S course at Yonsei University Philosophy(Logics/Philosophy of Language) Dept.](https://philosophy.yonsei.ac.kr)  
  - ~ 2019.02: [B.S at Kookmin University Electronic Engineering Dept.](https://ee.kookmin.ac.kr/)  
-   - [2018 Grand prize, ICT smart Device National Contest 5th, Ministry of Science and ICT, Republic of Korea](https://ee.kookmin.ac.kr/community/board/ee_news/203?pn=0rss)
-  
+    
+### Awards
+ - [2020.12 Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea](https://github.com/musicjae/Flag_Classification_model) 
+ - [2018 Grand prize, ICT smart Device National Contest 5th, hosted by Ministry of Science and ICT, Republic of Korea](https://ee.kookmin.ac.kr/community/board/ee_news/203?pn=0rss)  
+ 
 ### I am...  
 
 - 🌱 I’m currently learning the Machine Learning (Deep Learning, NLP)
