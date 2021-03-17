@@ -18,5 +18,6 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
 - 🌱 I’m currently learning the Machine Learning (Deep Learning, NLP)
 - 📫 How to reach me: musicjae@naver.com
 
-  
-[![J's github stats](https://github-readme-stats.vercel.app/api?username=musicjae&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+    
+
+[![musicjae's github stats](https://github-readme-stats.vercel.app/api?username=musicjae&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
