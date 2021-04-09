@@ -26,6 +26,7 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
 - [Pytorch](https://github.com/musicjae/Pytorch)
 - [NLP](https://github.com/musicjae/NLP)
   - [Korean NLP](https://github.com/musicjae/Korean-NLP)
+  - [NLP 스터디 모임](https://github.com/nlp-masters/study-materials)
 - [Recommender System](https://github.com/musicjae/recommender-system)
 
 #### Projects
