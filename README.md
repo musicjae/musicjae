@@ -19,4 +19,14 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
 - 📫 How to reach me: musicjae@naver.com
   
 
-[![musicjae's github stats](https://github-readme-stats.vercel.app/api?username=musicjae&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+### Studying & Project
+
+#### Studying
+
+- [Pytorch](https://github.com/musicjae/Pytorch)
+- [NLP](https://github.com/musicjae/NLP)
+  - [Korean NLP](https://github.com/musicjae/Korean-NLP)
+- [Recommender System](https://github.com/musicjae/recommender-system)
+
+#### Projects
+- [대한민국 바로 알리기 AI 공모전](https://github.com/musicjae/Flag_Classification_model)
