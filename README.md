@@ -16,7 +16,7 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
 ### I am...  
 
 - 🌱 I’m currently learning the Machine Learning (Deep Learning, NLP)
-- 📫 How to reach me: musicjae@naver.com, philsc2121@dangamsoft.com, musicjae@yonsei.ac.kr
+- 📫 How to reach me:philsc2121@dangamsoft.com
   
 
 ### Studying & Project
