@@ -28,7 +28,7 @@ Welcome to my Github. I'm graduated from Kookmin University majoring in Electron
   - [Korean NLP](https://github.com/musicjae/Korean-NLP)
   - [NLP 스터디 모임](https://github.com/nlp-masters/study-materials)
 - [Recommender System](https://github.com/musicjae/recommender-system)
-- [IELab Deeplearning Seminar](https://github.com/Intelligence-Engineering-LAB-KU/Seminar)
+- [IELab Deep-Learning Seminar](https://github.com/Intelligence-Engineering-LAB-KU/Seminar)
 
 #### Projects
 - [대한민국 바로 알리기 AI 공모전](https://github.com/musicjae/Flag_Classification_model)
