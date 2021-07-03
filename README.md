@@ -2,7 +2,7 @@
  
 ### I am 
 
-- 🌱 I’m currently learning the Deep Learning (NLP,Recommender System)
+- 🌱 I’m currently learning the Deep Learning (Time Series Analysis)
 - 📫 How to reach me:musicjae@yonsei.ac.kr
   
 ### Toy Projects
