@@ -7,4 +7,4 @@
   
 ### Toy Projects
 - https://github.com/musicjae/Image-Classification-gMLP
-- https://github.com/musicjae/django-study/tree/master/myblog
+- https://github.com/musicjae/django-study/myblog
