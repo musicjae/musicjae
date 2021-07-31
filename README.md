@@ -2,7 +2,7 @@
  
 ### I am 
 
-- 🌱 I’m currently learning the Deep Learning (Time Series Analysis)
+- 🌱 I’m currently learning the Deep Learning (Time Series Analysis, Fraud Detection)
 - 📫 How to reach me:musicjae@yonsei.ac.kr
   
 ### Toy Projects
