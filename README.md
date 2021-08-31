@@ -3,7 +3,7 @@
 ### I am 
 
 - 🌱 I’m currently learning the Deep Learning (Time Series Analysis, Fraud Detection)
-- 📫 How to reach me:musicjae@yonsei.ac.kr
+- 📫 How to reach me: david@lambda256.io
   
 ### Toy Projects
 - gMLP로 흰 강아지 품종 분류하기 https://github.com/musicjae/Image-Classification-gMLP  
