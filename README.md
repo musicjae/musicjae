@@ -1,9 +1,6 @@
 
  
-### I am 
 
-- 🌱 I’m currently learning the Deep Learning (Time Series Analysis, Fraud Detection)
-- I'm working for Lambda256 Lab by Dunamu.
 
   
 ### Toy Projects
